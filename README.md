@@ -1,2 +1,0 @@
-# telc
-hodj
